@@ -1,4 +1,4 @@
 # branding
-Home of all the branding for ChatGPT on Discord.
+Home of all the branding for Geneplore AI.
 
-Commercial use is disallowed.
+Commercial use, other than by Geneplore AI is disallowed.
